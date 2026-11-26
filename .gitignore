@@ -1,0 +1,6 @@
+*.zip
+.DS_Store
+
+# over GitHub's 100 MB file limit: attached to a Release instead
+Artemis/Pod segmentation demo.mp4
+Image Safari/Bean diseases.pptx
